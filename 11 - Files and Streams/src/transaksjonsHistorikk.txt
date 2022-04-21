@@ -1,0 +1,21 @@
+
+
+Start saldo: 1500.0
+I	200.0
+U	100.0
+SluttSaldo: 1600.0
+
+
+Start saldo: 1600.0
+I	300.0
+U	450.0
+SluttSaldo: 1450.0
+
+
+Start saldo: 1450.0
+U	1200.0
+I	50.0
+U	250.0
+SluttSaldo: 50.0
+
+
