@@ -26,3 +26,15 @@ The candidate:
 
 ### Competence
 - Can utelize object-oriented thinking to analyze and solve simple problems
+
+# Highlights
+
+## Assignment 15
+
+![Graphics Steve Dabbing](15%20-%20OpenGL%20-%20Movement/images/dabbing.gif)
+
+![Graphics Steve Dabbing](15%20-%20OpenGL%20-%20Movement/images/walking1.gif)
+
+![Graphics Steve Dabbing](15%20-%20OpenGL%20-%20Movement/images/walking2.gif)
+
+![Graphics Steve Dabbing](15%20-%20OpenGL%20-%20Movement/images/walking3.gif)
